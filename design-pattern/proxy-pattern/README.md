@@ -6,7 +6,14 @@
   - バリデーション、通知、デバッグ
 - パフォーマンスが重要なコードにはプロキシを使用しない
  
-<video src="https://res.cloudinary.com/ddxwdqwkr/video/upload/v1609056520/patterns.dev/jspat-51_xvbob9.mp4" />
+
+
+https://user-images.githubusercontent.com/79293847/229081885-8cb5d74d-129a-45e2-af62-4139036b2952.mp4
+
+
+
+
+
 
 ## ref
 https://www.patterns.dev/posts/singleton-pattern
