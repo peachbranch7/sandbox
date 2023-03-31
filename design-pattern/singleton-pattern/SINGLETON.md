@@ -6,7 +6,11 @@
 - インスタンス化を一度に限定することで、使用されるメモリ容量を大幅に削減できる
 - JSではアンチパターン
 
-<video src="https://res.cloudinary.com/ddxwdqwkr/video/upload/v1609056519/patterns.dev/jspat-52_zkwyk1.mp4" />
+
+
+https://user-images.githubusercontent.com/79293847/229082501-38e69efe-fde4-4827-aa3c-201206ad5f5a.mp4
+
+
 
 ## ref
 https://www.patterns.dev/posts/singleton-pattern
