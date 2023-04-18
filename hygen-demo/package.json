@@ -1,0 +1,14 @@
+{
+  "name": "hygen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "new:fc": "hygen new component"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hygen": "^6.2.11"
+  }
+}
